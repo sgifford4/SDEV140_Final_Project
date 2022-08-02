@@ -1,0 +1,6 @@
+1. Run Python Progam titled Gifford_Sean_Final_Project
+2. Click "Place an Online Order"
+3. Input Amt as Integers for your selections in reference to the menu
+4. Click the "Clear" button to reset the form to zeros' if needed
+5. Click the "Total" button to calculate the total of your inputs (Step 3)
+6. Click the "Submit" button to submit your order 
